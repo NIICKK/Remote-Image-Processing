@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x    CMakeFiles/server.dir/server.cc.o CMakeFiles/server.dir/imagTrans.cc.o CMakeFiles/server.dir/process.cpp.o  -o server -rdynamic /usr/local/pacerepov1/cuda/9.1/lib64/libcudart.so -Wl,-rpath,/usr/local/pacerepov1/cuda/9.1/lib64 
